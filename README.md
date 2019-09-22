@@ -2,4 +2,4 @@
 
 https://nbviewer.jupyter.org/github/onurkulat/python3
 
-Burdan inceleyebilirsiniz. :)
+Buradan inceleyebilirsiniz. :)
